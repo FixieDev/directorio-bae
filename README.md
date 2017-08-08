@@ -1,6 +1,8 @@
 # Download Directorio BAE
 
-### [Version 1.0](itms-services://?action=download-manifest&url=https%3A%2F%2Fapps.crashlytics.com%2Fprojects%2F5989f8567028b534b0690ec6%2Freleases%2F8033523%2Fdownload.plist%3Fdevice_id%3D2788124%26device_token%3DODRjVTRDYkljdDdLeGY0NzFwVGFVQmc1VVFrTXBaRDNQRC9GUmVwQ0NCSVB6b3pySG13dDU2bkFjTVh6djh6U3MvSzYxRjNvVTRHbGJ2U3dlUUJ1aVh3L2tQYWRTWk40VXF0N1NCYzFJZ1k9LS10UnIxVnBZZUNaL1RGR3l5all1RGVnPT0%253D--7bd09bd88e89ba47885c0d8161f6749fed7dbc07%26payload_token%3DFSpprAHbHS6Xq4ppp8GLv9UV)
+### [Version 1.0 WS Testing](itms-services://?action=download-manifest&url=https%3A%2F%2Fapps.crashlytics.com%2Fprojects%2F5989f8567028b534b0690ec6%2Freleases%2F8034436%2Fdownload.plist%3Fdevice_id%3D2788124%26device_token%3DdExHWUUxQnpLL0dDQUs0L0VJS0VRZVI4b01EaXdhNnNZcGtxS3I5Kzl1VEJjSTRjUDJGRnlYUjBGM0xnQnhTUzZZaHZlb09rOGlKWjV3c3RmQWozK2tVU1ZySXhLbEtWV3FwVkxhS2pVWmc9LS02WDFWbDl6OHFTM1VoVnBvM044YlN3PT0%253D--e60d7e3cae4977845727a4d10d747995066c290a%26payload_token%3D5nmbH7axFAmrzyiprtYrwzJp)
+
+### [Version 1.0 WS Production](itms-services://?action=download-manifest&url=https%3A%2F%2Fapps.crashlytics.com%2Fprojects%2F5989f8567028b534b0690ec6%2Freleases%2F8034482%2Fdownload.plist%3Fdevice_id%3D3075929%26device_token%3DUDNkaEFjdkMwZFUxcEQrT3VnU0lKc1lQT1RFQjVWdytWeGpjeThKRURybzFXZGloNndtZGkrYnFaOHdzaWJsOE1nKzNzTVpoMUFZTVpVMEtiY3d2RTZRV2s5ZDIweWFrWXhXbnJVUXJXdG89LS1NRDZLMHhPQWxhYktqMlI3djlNdTJnPT0%253D--72aa1fcb23f5fb5343cf19880933eba08f82d2d7%26payload_token%3DBaN7EUoNkAVvAeqP1Cda3eUy)
 
 ## Steps to run in Device
 
