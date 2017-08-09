@@ -1,8 +1,8 @@
-# Download Directorio BAE
+# Download Directorio BAE (09/08/17)
 
-### 📦 [Version 1.0 WS Testing](itms-services://?action=download-manifest&url=https%3A%2F%2Fapps.crashlytics.com%2Fprojects%2F5989f8567028b534b0690ec6%2Freleases%2F8034436%2Fdownload.plist%3Fdevice_id%3D2788124%26device_token%3DdExHWUUxQnpLL0dDQUs0L0VJS0VRZVI4b01EaXdhNnNZcGtxS3I5Kzl1VEJjSTRjUDJGRnlYUjBGM0xnQnhTUzZZaHZlb09rOGlKWjV3c3RmQWozK2tVU1ZySXhLbEtWV3FwVkxhS2pVWmc9LS02WDFWbDl6OHFTM1VoVnBvM044YlN3PT0%253D--e60d7e3cae4977845727a4d10d747995066c290a%26payload_token%3D5nmbH7axFAmrzyiprtYrwzJp)
+### 📦 [Version 1.0 WS Testing](itms-services://?action=download-manifest&url=https%3A%2F%2Fapps.crashlytics.com%2Fprojects%2F5989f8567028b534b0690ec6%2Freleases%2F8034436%2Fdownload.plist%3Fdevice_id%3D3081346%26device_token%3DaDlmZVpUT2NUQ0R3c2VVRVhack44NUtyUFppNWcxOTd0MkxPQUwySlpDUElrVlh5L2pESGI3TjU0V0QrS25RakFwVzdDbys4MVBJa3paWGc2MVdndis4cngzTWlBQWJkQXU3RXNWalZ1YjA9LS1iOVlTTlNrbi9jelZlYWd2bmk0NnRRPT0%253D--cfd121a54bf24608d9f0d4be2ded9f12c5d35fb2%26payload_token%3DeqjyBYZmwXucWpw6oVqNyBEX)
 
-### 📦 [Version 1.0 WS Production](itms-services://?action=download-manifest&url=https%3A%2F%2Fapps.crashlytics.com%2Fprojects%2F5989f8567028b534b0690ec6%2Freleases%2F8034482%2Fdownload.plist%3Fdevice_id%3D3075929%26device_token%3DUDNkaEFjdkMwZFUxcEQrT3VnU0lKc1lQT1RFQjVWdytWeGpjeThKRURybzFXZGloNndtZGkrYnFaOHdzaWJsOE1nKzNzTVpoMUFZTVpVMEtiY3d2RTZRV2s5ZDIweWFrWXhXbnJVUXJXdG89LS1NRDZLMHhPQWxhYktqMlI3djlNdTJnPT0%253D--72aa1fcb23f5fb5343cf19880933eba08f82d2d7%26payload_token%3DBaN7EUoNkAVvAeqP1Cda3eUy)
+### 📦 [Version 1.0 WS Production](itms-services://?action=download-manifest&url=https%3A%2F%2Fapps.crashlytics.com%2Fprojects%2F5989f8567028b534b0690ec6%2Freleases%2F8034482%2Fdownload.plist%3Fdevice_id%3D3081346%26device_token%3DRVovTXB5UDZvb2NPR1VhVFplZ1REalJlYVdhbTkzRXBPRUVqemVZb1MveFR2U2wrNkxLN1FWZ082SHF0Wnp2cXEvUGFsZUF2MG9HOGlsb05zOHBuOVZwSXcrTkFWUWZpb0g0KzU4TDJRSnc9LS1oYWlIeEZ4bHFmNWtLL2xNRmhRQjlRPT0%253D--3f1eff8af17ba2388b6e8b7e984b60bb4dd8c96c%26payload_token%3DeqjyBYZmwXucWpw6oVqNyBEX)
 
 ## Steps to run in Device
 
