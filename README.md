@@ -1,8 +1,8 @@
 # Download Directorio BAE (09/08/17)
 
-### 📦 [Version 1.0 WS Testing](itms-services://?action=download-manifest&url=https%3A%2F%2Fapps.crashlytics.com%2Fprojects%2F5989f8567028b534b0690ec6%2Freleases%2F8034436%2Fdownload.plist%3Fdevice_id%3D3081346%26device_token%3DaDlmZVpUT2NUQ0R3c2VVRVhack44NUtyUFppNWcxOTd0MkxPQUwySlpDUElrVlh5L2pESGI3TjU0V0QrS25RakFwVzdDbys4MVBJa3paWGc2MVdndis4cngzTWlBQWJkQXU3RXNWalZ1YjA9LS1iOVlTTlNrbi9jelZlYWd2bmk0NnRRPT0%253D--cfd121a54bf24608d9f0d4be2ded9f12c5d35fb2%26payload_token%3DeqjyBYZmwXucWpw6oVqNyBEX)
+### 📦 [Version 1.0 WS Testing](itms-services://?action=download-manifest&url=https%3A%2F%2Fapps.crashlytics.com%2Fprojects%2F5989f8567028b534b0690ec6%2Freleases%2F8034436%2Fdownload.plist%3Fdevice_id%3D3081346%26device_token%3DRFNxd29vT2FQa29hUS9oM0lkZzM2dC9ZaDhDMGJvSm1wZ0ovblJJYUpKZDJsR3dza2xTVHBYd3lHK0VtdHYwZlRCMFlTWWFLL0tuK2JzRnIwMGgyYndFUXo2WTFyOXFNUzk5YVdTV0VIZkE9LS1yTU5pZERDZkxxYlcxWWVlTVV1K2d3PT0%253D--5e5fa11e1e471727cce6ca01150eb68e825024d9%26payload_token%3DypfPRr6FN2fuRsfffupqeoGv)
 
-### 📦 [Version 1.0 WS Production](itms-services://?action=download-manifest&url=https%3A%2F%2Fapps.crashlytics.com%2Fprojects%2F5989f8567028b534b0690ec6%2Freleases%2F8034482%2Fdownload.plist%3Fdevice_id%3D3081346%26device_token%3DRVovTXB5UDZvb2NPR1VhVFplZ1REalJlYVdhbTkzRXBPRUVqemVZb1MveFR2U2wrNkxLN1FWZ082SHF0Wnp2cXEvUGFsZUF2MG9HOGlsb05zOHBuOVZwSXcrTkFWUWZpb0g0KzU4TDJRSnc9LS1oYWlIeEZ4bHFmNWtLL2xNRmhRQjlRPT0%253D--3f1eff8af17ba2388b6e8b7e984b60bb4dd8c96c%26payload_token%3DeqjyBYZmwXucWpw6oVqNyBEX)
+### 📦 [Version 1.0 WS Production](itms-services://?action=download-manifest&url=https%3A%2F%2Fapps.crashlytics.com%2Fprojects%2F5989f8567028b534b0690ec6%2Freleases%2F8034482%2Fdownload.plist%3Fdevice_id%3D3081346%26device_token%3DUVBkYjVjUmFlVDNYUXdqNkhIQTd1Umx5SFY4dDFWcVUvNFJYeGQzYnlnUXM4ZExWQmx4d0xaTGsyVmR1VFhCQ05nVDVsRlpSNnJEZUs1TjBxM00wKzNQTDc1SVBBbXlWZTdybjZIWGZRTVE9LS1lNllEbXNvOGlOT2YxR1JYL2VYdzRRPT0%253D--2421fb3967744b3056c8e1c4ffd00e2b67fb7e41%26payload_token%3DypfPRr6FN2fuRsfffupqeoGv)
 
 ## Steps to run in Device
 
