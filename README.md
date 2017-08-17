@@ -1,6 +1,6 @@
 # Download Directorio BAE (09/08/17)
 
-### [📦 Compilado](https://www.dropbox.com/s/le08rkn33uxh1gp/Directorio%20BAE.zip?dl=0)
+### [📦 Compilado 2](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/FixieDev/directorio-bae/master/Manifest.plist)
 
 
 ## Steps to run in Device
