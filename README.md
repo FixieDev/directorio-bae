@@ -5,7 +5,7 @@
 
 ## Steps to run in Device
 
-### 0.First Download in device
+### First install the .ipa archive with itunes on your device.
 ### 1. Go to Settings
 
 ![fullsizerender 2](https://user-images.githubusercontent.com/3466367/29091359-49c78c28-7c48-11e7-9fc7-abf0daf7a386.jpg)
