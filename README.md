@@ -1,7 +1,5 @@
 # Download Directorio BAE (09/08/17)
 
-### [📦 Compilado Test](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/FixieDev/directorio-bae/master/Manifest.plist)
-
 ### [📦 Compilado Prod](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/FixieDev/directorio-bae/master/DirectorioBAE.plist)
 
 
